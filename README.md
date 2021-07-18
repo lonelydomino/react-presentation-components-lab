@@ -17,10 +17,10 @@ rapidly exceed the human brain's memory capacity:
 * "If they have capicola, I want that, but if they don't have it, I want ham
   with mustard, but only if that mustard is spicy."
 * "PB&amp;J! #simplelife #yolo"
-* "I'll have whatever the vegan options is, unless it's soy-patty. In that
+* "I'll have whatever the vegan options is, unless it's soy-patty. In that`
   case, nothing.  I'm a vegan, but that stuff is _awful_."
 
-The same is true for complex applications, especially front end applications.
+The same is true for complex applications, especially front end applications.`
 If the user is logged in but hasn't selected a checkbox yet then we should
 prompt them to." Keeping up with all that _state_ is hard to do as a
 programmer.
